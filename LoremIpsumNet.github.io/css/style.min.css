@@ -906,7 +906,10 @@ body.ie ._ibg img {
 }
 
 * {
+  -webkit-animation-duration: 1s;
   animation-duration: 1s;
+  -webkit-appearance: none;
+  -moz-appearance: none;
   appearance: none;
 }
 
